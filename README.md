@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm blumako and this is my GitHub profile.
 
 <!--
 **blumako/blumako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
