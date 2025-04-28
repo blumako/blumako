@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **josephttran27@gmail.com**
 
-- 📄 Know about my experiences [resume-3.pdf](resume-3.pdf)
+- 📄 Know about my experiences [my_resume]([resume-3.pdf](https://github.com/blumako/resume/blob/main/resume-3.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
