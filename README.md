@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joseph-tran-07a629343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-tran-07a629343/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/blumako/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/blumako/" height="30" width="40" /></a>
+<a href="/blumako.github.io" target="blank"><img align="center" src="https://github.com/user-attachments/assets/df03fc8b-af98-47d8-a445-c1f82d6c0d21" alt="blumako.github.io" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
