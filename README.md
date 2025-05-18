@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **josephttran27@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/blumako/resume/blob/main/curr%20resume-3.pdf](https://github.com/blumako/resume/blob/main/curr%20resume-3.pdf)
+- 📄 Know about my experiences [https://blumako.github.io](https://blumako.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
