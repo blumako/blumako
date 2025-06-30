@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blumako&label=Profile%20views&color=0e75b6&style=flat" alt="blumako" /> </p>
 
-- 🌱 I’m currently learning **greedy algorithm design, code analysis, and SQL.**
+- 🌱 I’m currently learning **react, databases, and SQL.**
 
 - 📫 How to reach me **josephttran27@gmail.com**
 
